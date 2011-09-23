@@ -6,7 +6,7 @@ my $outer = {
   inner => {
     baz => "biz",
   },
-}
+};
 
             #/ This bugs me...
             #|
